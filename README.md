@@ -43,3 +43,4 @@ When the user presses the button:
 - Split-flap display mechanism inspiration
 - Vintage airport/train station displays
 - https://www.reddit.com/r/3Dprinting/comments/1jeub4g/i_designed_a_split_flap_display_fully_3d_printed/
+- https://www.instagram.com/p/BsODiyCHwc7/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
