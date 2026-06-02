@@ -6,7 +6,7 @@
 ![Split-Flap Display](images/split_flap_render.png)
 
 🎥 **Project Video:**  
-https://your-video-link-here.com
+[https://your-video-link-here.com](https://youtu.be/XYKOU2_SeqI)
 
 ---
 
