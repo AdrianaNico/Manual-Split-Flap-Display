@@ -1,5 +1,8 @@
 # Manual-Split-Flap-Display
 
+![Split-Flap Display](images/front.png)
+![Split-Flap Display](images/side.png)
+![Split-Flap Display](images/top.png)
 ![Split-Flap Display](images/split_flap_render.png)
 
 🎥 **Project Video:**  
