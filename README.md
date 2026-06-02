@@ -1,9 +1,17 @@
 # Manual-Split-Flap-Display
 
+![Split-Flap Display](images/split_flap_render.png)
+
+🎥 **Project Video:**  
+https://your-video-link-here.com
+
+---
+
 ## Project Idea
 
 This project consists of a manually operated split-flap display inspired by old train station and airport information boards.
-The mechanism is designed in Fusion 360 and intended for 3D printing.  
+The mechanism is designed in Fusion 360 and intended for 3D printing.
+
 Instead of using motors or electronics, the display advances manually through a push-button mechanism that flips the next panel each time the button is pressed.
 
 The display will contain:
@@ -11,10 +19,11 @@ The display will contain:
 - a mechanical flipping system
 - a compact printable assembly
 
+---
 
 ## How It Works
 
-The project uses a rotating drum containing multiple flaps.  
+The project uses a rotating drum containing multiple flaps.
 Each flap has a printed number or symbol.
 
 When the user presses the button:
@@ -22,6 +31,7 @@ When the user presses the button:
 2. the current flap flips forward
 3. the next number becomes visible
 
+---
 
 ## Objectives
 
@@ -31,14 +41,18 @@ When the user presses the button:
 - Minimize the number of non-printed components
 - Achieve reliable flap alignment
 
-- ## Tools Used
+---
+
+## Tools Used
 
 - Fusion 360
 - GitHub
 - 3D Printer
 - PrusaSlicer
 
-- ## References
+---
+
+## References
 
 - Split-flap display mechanism inspiration
 - Vintage airport/train station displays
