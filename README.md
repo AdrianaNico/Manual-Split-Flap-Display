@@ -65,20 +65,20 @@ When the user presses the button:
 
 ## Component Descriptions
 
-| ![Main Gear Placeholder](images/main_gear.png) | ![Second Gear Placeholder](images/second_gear.png) |
+| ![Main Gear Placeholder](images/main gear.png) | ![Second Gear Placeholder](images/second gear.png) |
 |:---:|:---:|
 | **Main Gear:** A primary gear equipped with 25 teeth for transmitting rotational motion. The structure integrates 10 radial slots spaced at equal angles, used as mounting and rotation points for the flap axes. | **Second Gear:** A 40-tooth intermediate gear responsible for transferring mechanical torque from the *third gear* to the *main gear*. The transmission ratio is strictly defined to ensure an exact 36-degree rotation per actuation (the angle required to sequentially index the 10 flaps). |
 
-| ![Third Gear Placeholder](images/third_gear.png) | ![Ratchet Placeholder](images/ratchet.png) |
+| ![Third Gear Placeholder](images/third gear.png) | ![Ratchet Placeholder](images/ratchet.png) |
 |:---:|:---:|
 | **Third Gear:** A motion take-up gear with identical specifications to the *main gear*, but with a solid structure lacking radial slots. It functions as a mounting base and provides a rigid coupling to the ratchet mechanism. | **Ratchet:** A ratchet wheel featuring asymmetrical teeth. Its kinematic role is to convert the linear motion of the actuating lever into unidirectional rotational motion. |
 
-| ![Pawl Placeholder](images/pawl.png) | ![Arm Button Placeholder](images/arm_button.png) |
+| ![Pawl Placeholder](images/pawl.png) | ![Arm Button Placeholder](images/arm button.png) |
 |:---:|:---:|
 | **Pawl:** A locking and retaining detent. It acts as a travel limiter for the *ratchet*, preventing over-travel and ensuring the actuating arm retracts only after reaching the optimal angle for releasing a single flap. | **Arm Button:** A linear actuating lever that includes an interactive toothed section (rack) to engage the *ratchet*. The operable end is designed as a detachable piece, allowing the shaft to pass through the guide holes in the case during assembly. |
 
-| ![Case Placeholder](images/case.png) | ![Flap Placeholder](images/flap.png) |
-|:---:|:---:|
+| ![Case Placeholder](images/case.png) | ![Flap Placeholder](images/flap12top.png) | ![Flap Placeholder](images/flap12bottom.png)
+|:---:|:---:|:---:|
 | **Case:** The load-bearing structure of the assembly. It integrates the bearings supporting the rotational axes of all moving parts. The design includes a geometric profile (stopper) placed in the upper section, calculated to support and lock the active flap in a vertical position. | **Flap:** A rectangular panel featuring pivots at its extremities for mechanical anchoring in the slots of the *main gear*. |
 
 
