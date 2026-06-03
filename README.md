@@ -1,4 +1,5 @@
 # Manual Split-Flap Display
+Welcome to the Manual Split-Flap Display project! Below you can see the 3D models and the physical prototype of this fully mechanical design. **Please note that in some renders and CAD screenshots, only 2 flaps are shown for demonstration purposes to allow a clearer view of the internal mechanism. The final, complete assembly contains all 10 flaps.**
 
 | | |
 |:---:|:---:|
