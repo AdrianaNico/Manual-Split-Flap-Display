@@ -77,7 +77,7 @@ When the user presses the button:
 |:---:|:---:|
 | **Pawl:** A locking and retaining detent. It acts as a travel limiter for the *ratchet*, preventing over-travel and ensuring the actuating arm retracts only after reaching the optimal angle for releasing a single flap. | **Arm Button:** A linear actuating lever that includes an interactive toothed section (rack) to engage the *ratchet*. The operable end is designed as a detachable piece, allowing the shaft to pass through the guide holes in the case during assembly. |
 
-| ![Case Placeholder](images/case.png) | ![Flap Placeholder](images/flap12top.png) | ![Flap Placeholder](images/flap12bottom.png)
+| ![Case Placeholder](images/case.png) | ![Flap Placeholder](images/flap12top.png)  ![Flap Placeholder](images/flap12bottom.png)
 |:---:|:---:|:---:|
 | **Case:** The load-bearing structure of the assembly. It integrates the bearings supporting the rotational axes of all moving parts. The design includes a geometric profile (stopper) placed in the upper section, calculated to support and lock the active flap in a vertical position. | **Flap:** A rectangular panel featuring pivots at its extremities for mechanical anchoring in the slots of the *main gear*. |
 
